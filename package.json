@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "A resume is the documentation of the person's educational background, skills and acheievements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddhu8/Prashanth-Resume.git"
+  },
+  "author": "Prashanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddhu8/Prashanth-Resume/issues"
+  },
+  "homepage": "https://github.com/Siddhu8/Prashanth-Resume#readme"
+}
