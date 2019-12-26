@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Siddhu8/Prashanth-Resume/issues"
   },
-  "homepage": "https://github.com/Siddhu8/Prashanth-Resume#readme"
+  "homepage": "https://github.com/Siddhu8/Prashanth-Resume#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
